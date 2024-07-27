@@ -1,5 +1,6 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
-
+//los archivos que estan aca seran ingnorados por lo que no seran subidos a dicho repositorio o dicho lugar en la nube
+// todo lo que esta aca se genera cada que subimos 
 # Compiled output
 /dist
 /tmp
